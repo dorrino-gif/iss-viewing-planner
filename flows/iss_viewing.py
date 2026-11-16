@@ -1,6 +1,7 @@
 """Prefect-managed refresh: calculate first, then publish both files atomically."""
 from pathlib import Path
 import json
+import sys
 import tempfile
 
 from prefect import flow, get_run_logger
@@ -8,6 +9,8 @@ from prefect.artifacts import create_link_artifact
 from prefect.blocks.system import Secret
 import requests
 
+# Prefect can load this entrypoint as a file rather than an installed package.
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from iss_planner import SITE_URL, generate
 
 REPO = "dorrino-gif/iss-viewing-planner"
