@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ISS Viewing Planner//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af006776503c74b9@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261116T225912Z
+DTEND:20261116T230247Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 13.8 degrees. Clouds: 0%. Look from azimuth 300.
+ 8 to 6.4 degrees. Times are estimates. Recheck before viewing. This import
+ ed event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=af006776503c74b
+ 9
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1ce805b386be83@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261126T230725Z
+DTEND:20261126T230849Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 12.8 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 355.7 to 20.7 degrees. Times are estimates. Recheck b
+ efore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=bf1ce805b386be8
+ 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8f21ff332e7b81@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261127T235459Z
+DTEND:20261127T235603Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 18.3 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 323.4 to 331.1 degrees. Times are estimates. Recheck 
+ before viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=fc8f21ff332e7b8
+ 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:86e58c88605f290a@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261128T230712Z
+DTEND:20261128T231035Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 26.5 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 333.5 to 49.8 degrees. Times are estimates. Recheck b
+ efore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=86e58c88605f290
+ a
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e738c77c58484a11@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261129T235536Z
+DTEND:20261129T235821Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 46.0 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 302.3 to 259.8 degrees. Times are estimates. Recheck 
+ before viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=e738c77c58484a1
+ 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b138b189f2a981@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261130T230729Z
+DTEND:20261130T231329Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 79.7 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 313.9 to 128.2 degrees. Times are estimates. Recheck 
+ before viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=d9b138b189f2a98
+ 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b4366239af08acbd@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261201T235709Z
+DTEND:20261202T000111Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 15.4 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 270.2 to 194.6 degrees. Times are estimates. Recheck 
+ before viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=b4366239af08acb
+ d
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0f4b233b6f5436da@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261202T230821Z
+DTEND:20261202T231405Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 28.1 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 289.6 to 168.1 degrees. Times are estimates. Recheck 
+ before viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=0f4b233b6f5436d
+ a
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7a74f25251e8f74f@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261211T110022Z
+DTEND:20261211T110617Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 30.9 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 195.9 to 68.8 degrees. Times are estimates. Recheck b
+ efore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=7a74f25251e8f74
+ f
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae76407e09570b90@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261212T101300Z
+DTEND:20261212T101724Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 16.9 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 171.0 to 87.3 degrees. Times are estimates. Recheck b
+ efore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=ae76407e09570b9
+ 0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e90ef6aff4f0b26f@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261213T110101Z
+DTEND:20261213T110642Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 73.2 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 235.2 to 44.6 degrees. Times are estimates. Recheck b
+ efore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=e90ef6aff4f0b26
+ f
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5b52eae6c4fb14@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261214T101603Z
+DTEND:20261214T101823Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 40.3 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 80.5 to 56.4 degrees. Times are estimates. Recheck be
+ fore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=6c5b52eae6c4fb1
+ 4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26d23a4126eab27e@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261215T110333Z
+DTEND:20261215T110627Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 25.4 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 322.9 to 24.7 degrees. Times are estimates. Recheck b
+ efore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=26d23a4126eab27
+ e
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e69c558e8903d727@iss-viewing-planner
+DTSTAMP:20261116T172217Z
+DTSTART:20261216T101748Z
+DTEND:20261216T101823Z
+SUMMARY:ISS viewing — Raleigh\, NC
+LOCATION:Raleigh\, NC
+DESCRIPTION:Peak elevation 14.6 degrees. Clouds: unavailable\; geometry onl
+ y. Look from azimuth 31.2 to 35.2 degrees. Times are estimates. Recheck be
+ fore viewing. This imported event will not update automatically.
+URL:https://dorrino-gif.github.io/iss-viewing-planner/#pass=e69c558e8903d72
+ 7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISS viewing begins soon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+const {calendar, fold} = require('../docs/calendar.js');
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const data = JSON.parse(fs.readFileSync('docs/data/predictions.json', 'utf8'));
+const p = data.passes[0];
+const raw = calendar(data, [p]);
+assert.ok(raw.includes(`UID:${p.id}@iss-viewing-planner\r\n`));
+assert.ok(raw.includes('TRIGGER:-PT15M\r\n'));
+assert.equal((raw.match(/BEGIN:VEVENT/g)||[]).length, 1);
+assert.ok(raw.split('\r\n').every(line => Buffer.byteLength(line) <= 75));
+assert.ok(fold('é'.repeat(100)).split('\r\n').every(line => Buffer.byteLength(line) <= 75));
+console.log('Calendar export checks passed.');
