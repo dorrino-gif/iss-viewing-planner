@@ -4,6 +4,11 @@ An ISS viewing planner for **Raleigh, North Carolina**: thirty days of orbital e
 
 **Website:** https://dorrino-gif.github.io/iss-viewing-planner/
 
+**Prefect workflow:** https://app.prefect.cloud/account/1b5a6c7b-1b06-4c0c-ac92-a987bfd47057/workspace/15de85c6-c0d7-4c09-a0f8-0cbd514e9320/flows/flow/d91ec1e6-b180-4b65-8574-09e9a1234bfd
+
+Published execution-plan version: `06afb3ec-5fcb-7f8e-8000-407f3dc9d10f`.
+For a default manual run, supply `{"request": {}}`; review and answer the publication form when it appears. A GitHub Secret block must be configured before allowing publication. No end-to-end Cloud test run has been performed during initial setup.
+
 ## What the colors mean
 
 The ISS must be sunlit, the observer's Sun must be at least 6° below the horizon, and the ISS must be at least 10° above it. Best viewing requires visible elevation of at least 40° and cloud cover no higher than 30%, when weather is available. Partial viewing requires visible elevation of at least 10° and cloud cover no higher than 70%. Higher cloud cover is poor. Without a cloud forecast, classifications describe **geometry only**.

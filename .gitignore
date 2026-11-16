@@ -3,6 +3,7 @@ __pycache__/
 .pytest_cache/
 .cache/
 .local/
+artifacts/
 *.pyc
 .env
 docs/data/*.json
